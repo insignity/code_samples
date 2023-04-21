@@ -2,15 +2,8 @@
 
 This project made to show code samples
 
-## Getting Started
+Do not try to run this project it is for read only (it has issues)
 
-This project is a starting point for a Flutter application.
+I cut code from an existing project which needs a lot to develop with it
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I wanted to tell you that there is no localization yet, so there are a lot of hard coded strings, so please don't pay attention on it
